@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['choosygirls_2ecpp',['ChoosyGirls.cpp',['../ChoosyGirls_8cpp.html',1,'']]],
-  ['choosygirls_2ehpp',['ChoosyGirls.hpp',['../ChoosyGirls_8hpp.html',1,'']]]
+  ['desperategirls_2ecpp',['DesperateGirls.cpp',['../DesperateGirls_8cpp.html',1,'']]],
+  ['desperategirls_2ehpp',['DesperateGirls.hpp',['../DesperateGirls_8hpp.html',1,'']]]
 ];

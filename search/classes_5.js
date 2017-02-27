@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['luxurygifts',['LuxuryGifts',['../classValentinePrimeTime_1_1LuxuryGifts.html',1,'ValentinePrimeTime']]]
+  ['miserboys',['MiserBoys',['../classValentinePrimeTime_1_1MiserBoys.html',1,'ValentinePrimeTime']]]
 ];

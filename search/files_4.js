@@ -1,10 +1,13 @@
 var searchData=
 [
-  ['geekboys_2ecpp',['GeekBoys.cpp',['../GeekBoys_8cpp.html',1,'']]],
-  ['geekboys_2ehpp',['GeekBoys.hpp',['../GeekBoys_8hpp.html',1,'']]],
-  ['generousboys_2ecpp',['GenerousBoys.cpp',['../GenerousBoys_8cpp.html',1,'']]],
-  ['generousboys_2ehpp',['GenerousBoys.hpp',['../GenerousBoys_8hpp.html',1,'']]],
-  ['gentestdata_2ecpp',['GenTestData.cpp',['../GenTestData_8cpp.html',1,'']]],
-  ['giftrecord_2ecpp',['GiftRecord.cpp',['../GiftRecord_8cpp.html',1,'']]],
-  ['giftrecord_2ehpp',['GiftRecord.hpp',['../GiftRecord_8hpp.html',1,'']]]
+  ['inputboys_2etxt',['inputBoys.txt',['../inputBoys_8txt.html',1,'']]],
+  ['inputchoosygirls_2etxt',['inputChoosyGirls.txt',['../inputChoosyGirls_8txt.html',1,'']]],
+  ['inputdesperategirls_2etxt',['inputDesperateGirls.txt',['../inputDesperateGirls_8txt.html',1,'']]],
+  ['inputessentialgifts_2etxt',['inputEssentialGifts.txt',['../inputEssentialGifts_8txt.html',1,'']]],
+  ['inputgeekboys_2etxt',['inputGeekBoys.txt',['../inputGeekBoys_8txt.html',1,'']]],
+  ['inputgenerousboys_2etxt',['inputGenerousBoys.txt',['../inputGenerousBoys_8txt.html',1,'']]],
+  ['inputluxurygifts_2etxt',['inputLuxuryGifts.txt',['../inputLuxuryGifts_8txt.html',1,'']]],
+  ['inputmiserboys_2etxt',['inputMiserBoys.txt',['../inputMiserBoys_8txt.html',1,'']]],
+  ['inputnormalgirls_2etxt',['inputNormalGirls.txt',['../inputNormalGirls_8txt.html',1,'']]],
+  ['inpututilitygifts_2etxt',['inputUtilityGifts.txt',['../inputUtilityGifts_8txt.html',1,'']]]
 ];

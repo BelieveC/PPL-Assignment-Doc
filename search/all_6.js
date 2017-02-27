@@ -1,13 +1,8 @@
 var searchData=
 [
-  ['inputboys_2etxt',['inputBoys.txt',['../inputBoys_8txt.html',1,'']]],
-  ['inputchoosygirls_2etxt',['inputChoosyGirls.txt',['../inputChoosyGirls_8txt.html',1,'']]],
-  ['inputdesperategirls_2etxt',['inputDesperateGirls.txt',['../inputDesperateGirls_8txt.html',1,'']]],
-  ['inputessentialgifts_2etxt',['inputEssentialGifts.txt',['../inputEssentialGifts_8txt.html',1,'']]],
-  ['inputgeekboys_2etxt',['inputGeekBoys.txt',['../inputGeekBoys_8txt.html',1,'']]],
-  ['inputgenerousboys_2etxt',['inputGenerousBoys.txt',['../inputGenerousBoys_8txt.html',1,'']]],
-  ['inputluxurygifts_2etxt',['inputLuxuryGifts.txt',['../inputLuxuryGifts_8txt.html',1,'']]],
-  ['inputmiserboys_2etxt',['inputMiserBoys.txt',['../inputMiserBoys_8txt.html',1,'']]],
-  ['inputnormalgirls_2etxt',['inputNormalGirls.txt',['../inputNormalGirls_8txt.html',1,'']]],
-  ['inpututilitygifts_2etxt',['inputUtilityGifts.txt',['../inputUtilityGifts_8txt.html',1,'']]]
+  ['log_2etxt',['log.txt',['../log_8txt.html',1,'']]],
+  ['luxurygifts',['LuxuryGifts',['../classValentinePrimeTime_1_1LuxuryGifts.html',1,'ValentinePrimeTime']]],
+  ['luxurygifts_2ecpp',['LuxuryGifts.cpp',['../LuxuryGifts_8cpp.html',1,'']]],
+  ['luxurygifts_2ehpp',['LuxuryGifts.hpp',['../LuxuryGifts_8hpp.html',1,'']]],
+  ['luxurygiftsorter',['luxuryGiftSorter',['../Q1Main_8cpp.html#a28176c143d9c5dd32d1375361804cb6a',1,'luxuryGiftSorter(ValentinePrimeTime::LuxuryGifts lhs, ValentinePrimeTime::LuxuryGifts rhs):&#160;Q1Main.cpp'],['../Q2Main_8cpp.html#a28176c143d9c5dd32d1375361804cb6a',1,'luxuryGiftSorter(ValentinePrimeTime::LuxuryGifts lhs, ValentinePrimeTime::LuxuryGifts rhs):&#160;Q2Main.cpp']]]
 ];
